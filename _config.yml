@@ -50,7 +50,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: Yeonjun Kim
+disqus_shortname: https-kimyeonjun-github-io
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
