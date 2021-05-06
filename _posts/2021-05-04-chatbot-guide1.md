@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[카카오 오픈빌더로 챗봇 만들기] 카카오 오픈빌더 챗봇 가이드(Non Server Version)"
+title:  "[카카오 오픈빌더로 챗봇 만들기] 카카오 오픈빌더 챗봇 가이드 - 1(Non Server Version)"
 date:   2021-05-04 16:30:00
 author: Yeonjun
 categories: Chatbot
